@@ -1,7 +1,6 @@
 # Flutter Bank Application
 
-Prototype application to demonstrate Bank Account Dashboard<br>
-[![Discord](https://img.shields.io/discord/731616556622282814?logo=discord&logoColor=white)](https://discord.com/invite/nWFnTqP)
+Prototype application to demonstrate Bank Account Dashboard
 
 <p align="center">
   <img src="bank_app.png" alt="flutter bank application demo" title="Screenshot">
